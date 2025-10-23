@@ -22,5 +22,5 @@ I’m passionate about **software development and design**.
 ---
 
 ### 🌏 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/llojjs) *(replace with your actual link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/louiseeriksson99/) 
 - ✨ Check out some of my projects!
