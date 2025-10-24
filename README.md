@@ -22,11 +22,14 @@ I’m passionate about **software development and design**.
 ---
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/llojjs/llojjs/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ### 🌏 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/louiseeriksson99/) 
+<a href="https://www.linkedin.com/in/louiseeriksson99/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+</a>
+
 - ✨ Check out some of my projects!
