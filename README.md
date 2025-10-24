@@ -26,6 +26,7 @@ I’m passionate about **software development and design**.
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1144004177)
 
 ### 🌏 Connect with Me
 <a href="https://www.linkedin.com/in/louiseeriksson99/" target="_blank">
