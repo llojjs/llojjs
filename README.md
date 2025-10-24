@@ -20,6 +20,12 @@ I’m passionate about **software development and design**.
 </p>
 
 ---
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/llojjs/llojjs/output/snake.svg" alt="Snake animation" />
+
 
 ### 🌏 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/louiseeriksson99/) 
