@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Louise — a Computer Science and Industrial Engineering & Management student from Linköping University, Sweden 🇸🇪.  
+I'm Louise, a Computer Science and Industrial Engineering & Management student from Linköping University, Sweden 🇸🇪.  
 I’m passionate about **software development and design**.  
 ### 🌏 Connect with Me
 <a href="https://www.linkedin.com/in/louiseeriksson99/" target="_blank">
