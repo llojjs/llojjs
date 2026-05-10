@@ -49,6 +49,4 @@ I’m passionate about **software development and design**.
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1144004177)
-
 
